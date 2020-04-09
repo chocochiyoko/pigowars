@@ -1,0 +1,5 @@
+Manifest-Version: 1.1
+Created-By: 11.0.4 (Debian)
+Main-Class: Tanks.GameExecute
+
+
